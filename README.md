@@ -8,7 +8,7 @@ The aim of this project is to conduct an exploratory data analysis on the US Hea
 3. Who is more likely to receive insurance charges over $16,700 - smokers or non-smokers?
 4. Who is more likely to receive insurance charges over $16,700 - individuals with a BMI below 25 or those above 25?
 
-The exploratory data analysis was conducted using Excel, and the file is attached.
+The exploratory data analysis was conducted using Excel, and the file is attached. Descriptive statistic, probability, and hypothesis testing were being used for the analysis.
 
 
 ## Key Findings
