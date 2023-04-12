@@ -21,3 +21,7 @@ The analysis revealed the following key findings:
 5. If an individual with a BMI higher than 25 is known to be a smoker, the probability of receiving insurance charges over $16,700 increases to 98%. This means that out of 100 people with these characteristics, only two people have insurance charges below $16,700. The probability remains low for non-smokers at 0.08%.
 
 For a more comprehensive report, please follow this link https://medium.com/@adindazr/who-is-more-likely-to-have-higher-medical-charges-a-smoker-or-an-obese-person-8f8bbdaaa637
+
+## Visualization
+Kindly visit this link to go tableau dashboard for visualization:
+https://public.tableau.com/views/SmokingObesityInfluencedonMedicalInsurances/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
