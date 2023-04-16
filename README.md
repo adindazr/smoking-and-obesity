@@ -25,3 +25,7 @@ For a more comprehensive report, please follow this link https://medium.com/@adi
 ## Visualization
 Kindly visit this link to go tableau dashboard for visualization:
 https://public.tableau.com/views/SmokingObesityInfluencedonMedicalInsurances/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
+
+## Video
+Project : https://youtu.be/I75SefgI3BU
+Theory : https://youtu.be/jcmhF_-tCi8
